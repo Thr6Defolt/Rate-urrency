@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\bin\Debug\net6.0\RateСurrency.exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\bin\Debug\net6.0\RateСurrency.deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\bin\Debug\net6.0\RateСurrency.runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\bin\Debug\net6.0\RateСurrency.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\bin\Debug\net6.0\RateСurrency.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\obj\Debug\net6.0\RateСurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\obj\Debug\net6.0\RateСurrency.AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\obj\Debug\net6.0\RateСurrency.AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\obj\Debug\net6.0\RateСurrency.csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\obj\Debug\net6.0\RateСurrency.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\obj\Debug\net6.0\refint\RateСurrency.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\obj\Debug\net6.0\RateСurrency.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\obj\Debug\net6.0\RateСurrency.genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\RateСurrency\RateСurrency\obj\Debug\net6.0\ref\RateСurrency.dll
